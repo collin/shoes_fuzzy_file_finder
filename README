@@ -8,7 +8,7 @@ Plus this excellent gui toolkit:
   
 You'll need your own shoes, no packaging right now.
 
-If you click on the file path links it will try to open the file with these apps: (in this order)
+If you click on the file path links it will try to open the file with gedit.
   
 !!!!!!!!!!!!!!!!
 Edit line 58 to use a text editor that is NOT gedit.
