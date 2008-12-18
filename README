@@ -1,0 +1,14 @@
+This excellent fuzzy finder lib:
+
+  http://weblog.jamisbuck.org/2008/10/10/coming-home-to-vim
+
+Plus this excellent gui toolkit:
+  
+  http://shoooes.net/
+  
+You'll need your own shoes, no packaging right now.
+
+If you click on the file path links it will try to open the file with these apps: (in this order)
+  
+!!!!!!!!!!!!!!!!
+Edit line 58 to use a text editor that is NOT gedit.
